@@ -5,7 +5,7 @@ Bot de visualização para a Twitch usando Python/Selenium.
 Ele abre abas anônimas do Google Chrome (automatizadas) para o canal de destino na Twitch. Não usa proxy.
 
 # Instalação
-1. Clone o repositório: "https://github.com/xNasc/TwitchBV.git"
+1. Clone o repositório: "https://github.com/xNasc/twitch-bot-views.git"
 2. Instale dependências via "requirements.txt" ou pip install -U selenium
 3. Execute pelo Vscode (Edite colocando o nome do seu canal na linha marcada).
 
